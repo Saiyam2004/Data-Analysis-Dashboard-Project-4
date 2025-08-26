@@ -14,7 +14,7 @@ Sales & order data for Northwind Traders, a fictitious gourmet food supplier, in
 - Are shipping costs consistent across providers?
 - Which shipper offers the most cost-effective and reliable service?
 
-- Dashboard Interaction <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-4/blob/main/Screenshot%202025-08-25%20161523.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-4/blob/main/Northwind%20Traders.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
