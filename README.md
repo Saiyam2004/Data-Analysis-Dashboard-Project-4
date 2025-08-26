@@ -25,6 +25,19 @@ Sales & order data for Northwind Traders, a fictitious gourmet food supplier, in
 ## Dashboard
 <img width="1859" height="856" alt="Northwind Traders" src="https://github.com/user-attachments/assets/85487f3a-f4db-4fc1-8882-132e249a5d02" />
 
+## Project Insight
+- Sales peaked in 2014 (~$600K), but then declined in 2015 (~$450K).
+- Côte de Blaye is the top product, generating well over $140K in sales.
+- Products like Valkoinen suklaa and Louisiana Hot Spiced Okra are the worst performers, barely reaching $4K in sales.
+- Customers like QUICK, ERNSH, SAVEA contribute over $100K each, making them highly valuable.
+- United Package has the highest average freight, while Speedy Express appears more economical.
+- Boxplot analysis shows Federal Shipping has more outliers, indicating inconsistency in freight costs.
+
+## Final Conclusion
+The analysis of Northwind Traders’ sales and operations reveals that the company’s growth peaked in 2014 but declined in 2015, signaling a need for renewed sales strategies. Revenue is highly concentrated among a few key products (e.g., Côte de Blaye) and loyal customers (e.g., QUICK, ERNSH, SAVEA), which drives profitability but also creates dependency risks. Additionally, while United Package incurs the highest freight costs, Speedy Express offers more consistent and economical shipping, highlighting opportunities for cost optimization.
+Overall, Northwind Traders should diversify its product portfolio, expand its customer base, and optimize shipping provider choices to ensure sustainable growth and long-term profitability.
+
+
 
 
 
